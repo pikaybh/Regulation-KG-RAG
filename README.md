@@ -54,6 +54,4 @@
 ## 기술 스택
 - Python, Neo4j, LangChain, OpenAI API, py2neo
 
-## 라이선스
-MIT License
 
